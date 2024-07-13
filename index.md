@@ -1,3 +1,13 @@
++++
+title =  "Auto-Commit Unsaved Changes to Isolated Branch Bash Script"
+description = "Utility script to commit changes that i have not commited to a branch.. just in case." 
+author = "Justin Napolitano"
+tags = ["scripting","bash"]
+images = ["images/feature-image.png"]
+date = "2024-07-13"
+categories = ["projects"]
+series = ["bash"]
++++
 
 # Auto-Commit and Push Script
 
