@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - bash script
   - repository management
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The post specifically focuses on a Bash script to automate git commits across multiple
+  repositories, aligning perfectly with the Automation family description and example slugs,
+  including the exact slug present.
 ---
 
 # Auto-Commit Changes: Technical Overview
@@ -78,3 +84,4 @@ Run the script periodically or integrate it into workflows to safeguard uncommit
 ## Summary
 
 This script automates a common but overlooked task: committing and pushing uncommitted changes across many repositories safely and efficiently. It balances automation with control via blacklisting and ownership checks, minimizing risks while reducing manual overhead.
+
