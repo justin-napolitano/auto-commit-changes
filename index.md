@@ -1,12 +1,26 @@
 ---
-slug: "github-auto-commit-changes"
-title: "auto-commit-changes"
-repo: "justin-napolitano/auto-commit-changes"
-githubUrl: "https://github.com/justin-napolitano/auto-commit-changes"
-generatedAt: "2025-11-23T08:37:27.920638Z"
-source: "github-auto"
+slug: github-auto-commit-changes
+title: Bash Script for Auto-Committing Uncommitted Changes Across Git Repos
+repo: justin-napolitano/auto-commit-changes
+githubUrl: https://github.com/justin-napolitano/auto-commit-changes
+generatedAt: '2025-11-23T08:37:27.920638Z'
+source: github-auto
+summary: >-
+  Bash script automating detection, committing, and pushing of uncommitted changes across multiple
+  Git repositories with ownership and blacklist controls.
+tags:
+  - bash
+  - git
+  - automation
+  - shell-script
+  - repository-management
+seoPrimaryKeyword: auto-commit changes
+seoSecondaryKeywords:
+  - git automation
+  - bash script
+  - repository management
+seoOptimized: true
 ---
-
 
 # Auto-Commit Changes: Technical Overview
 
