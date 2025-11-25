@@ -1,14 +1,14 @@
 ---
 slug: github-auto-commit-changes
 id: github-auto-commit-changes
-title: Automate Git Commits Across Multiple Repositories
+title: Automate Git Commits with Bash Script Utility
 repo: justin-napolitano/auto-commit-changes
 githubUrl: https://github.com/justin-napolitano/auto-commit-changes
 generatedAt: '2025-11-24T21:34:00.267Z'
 source: github-auto
 summary: >-
-  A Bash script to automate committing and pushing changes in multiple Git
-  repositories, ensuring safe and efficient version control.
+  This guide covers a Bash script that automates committing and pushing changes
+  across multiple Git repositories.
 tags:
   - bash
   - git
@@ -17,10 +17,10 @@ tags:
 seoPrimaryKeyword: github auto commit changes
 seoSecondaryKeywords:
   - bash script for git
-  - automated git commits
-  - multi-repo git management
-  - git commit automation
-  - git push script
+  - automate git commits
+  - git repository management
+  - git command line tools
+  - multi-repo automation
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
