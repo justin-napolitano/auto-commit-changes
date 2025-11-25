@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/auto-commit-changes
 generatedAt: '2025-11-24T21:34:00.267Z'
 source: github-auto
 summary: >-
-  This guide covers a Bash script that automates committing and pushing changes
-  across multiple Git repositories.
+  This guide covers a Bash script that automates committing and pushing changes across multiple Git
+  repositories.
 tags:
   - bash
   - git
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - git command line tools
   - multi-repo automation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -96,3 +96,4 @@ auto-commit-changes/
 ---
 
 *This project assumes a Linux environment with Bash and Git installed.*
+
