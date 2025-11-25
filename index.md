@@ -1,31 +1,38 @@
 ---
 slug: github-auto-commit-changes
-title: Bash Script for Auto-Committing Uncommitted Changes Across Git Repos
+title: Automate Git Commits Across Multiple Repositories
 repo: justin-napolitano/auto-commit-changes
 githubUrl: https://github.com/justin-napolitano/auto-commit-changes
 generatedAt: '2025-11-23T08:37:27.920638Z'
 source: github-auto
 summary: >-
-  Bash script automating detection, committing, and pushing of uncommitted changes across multiple
-  Git repositories with ownership and blacklist controls.
+  A Bash script to automate committing and pushing uncommitted changes in
+  multiple Git repositories while ensuring ownership and excluding specific
+  paths.
 tags:
   - bash
   - git
   - automation
   - shell-script
   - repository-management
-seoPrimaryKeyword: auto-commit changes
-seoSecondaryKeywords:
-  - git automation
-  - bash script
   - repository management
+  - blacklist
+seoPrimaryKeyword: github auto-commit changes
+seoSecondaryKeywords:
+  - automated git commits
+  - commit uncommitted changes
+  - git repository management
+  - bash script for git
+  - exclude repositories from commit
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The post specifically focuses on a Bash script to automate git commits across multiple
-  repositories, aligning perfectly with the Automation family description and example slugs,
-  including the exact slug present.
+  The post specifically focuses on a Bash script to automate git commits across
+  multiple repositories, aligning perfectly with the Automation family
+  description and example slugs, including the exact slug present.
+kind: project
+id: github-auto-commit-changes
 ---
 
 # Auto-Commit Changes: Technical Overview
